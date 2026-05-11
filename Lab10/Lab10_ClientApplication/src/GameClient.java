@@ -17,6 +17,7 @@ public class GameClient {
                 if (command.equalsIgnoreCase("exit")) {
                     break;
                 }
+                //sal
                 out.println(command);
             }
         } catch (Exception e) {
