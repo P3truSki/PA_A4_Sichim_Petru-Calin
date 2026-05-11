@@ -1,0 +1,17 @@
+[
+  {
+    "text": "Care este capitala Frantei?",
+    "options": "A) Londra  B) Paris  C) Berlin",
+    "correctOption": "B"
+  },
+  {
+    "text": "In ce an s-a scufundat Titanicul?",
+    "options": "A) 1912  B) 1905  C) 1920",
+    "correctOption": "A"
+  },
+  {
+    "text": "Cine a scris poezia Luceafarul?",
+    "options": "A) Ion Creanga  B) Lucian Blaga  C) Mihai Eminescu",
+    "correctOption": "C"
+  }
+]
